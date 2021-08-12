@@ -40,7 +40,7 @@ echo $tai  "    Author = SADAM ALSHARABI"
 sleep 1
 echo $tai  "    Version = 0.1"
 sleep 1
-echo $tai  "    Name Tools = "Payload-alsharabi
+echo $tai  "    Name Tools = "Payload-alsharabi"
 echo $biru "++[==============================================]++"
 echo
 echo $putih " ++[ Masukan Pilihan Anda ]++"
