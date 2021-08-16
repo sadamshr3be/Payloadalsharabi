@@ -68,7 +68,7 @@ https://youtube.com/channel/UCGmfv3D0tcKvHp8Tolf6Yqw
 https://t.me/termuxalsharabi
 # المدونه. 
 
-https://sadamalsharabi.blogspot.com
+https://termuxalsharabi.blogspot.com
 
 # بقلم صدام الشرعبي
 
